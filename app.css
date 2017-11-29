@@ -21,7 +21,7 @@ a {
  font-family: Lobster;  
  font-size: 25px; 
  padding: 20px 30px 0px 0px; 
- color: 
+ color: blue;
 }
 header { 
  background: url("images/skyandwater.jpeg"); 
@@ -36,4 +36,10 @@ img {
  border: 7px solid white; 
  border-radius: 20px; 
  text-align: center; 
+} 
+ul { 
+    font-family: Dosis; 
+    text-align: center; 
+    font-size: 55px; 
+    color:#022b3a; 
 }
